@@ -1,0 +1,10 @@
+/home/richie/MAML_HMR/src/SMPL.py:99: UserWarning: This overload of sub is deprecated:
+	sub(Number alpha, Tensor other)
+Consider using one of the following signatures instead:
+	sub(Tensor other, *, Number alpha) (Triggered internally at  ../torch/csrc/utils/python_arg_parser.cpp:1050.)
+  pose_feature = (Rs[:, 1:, :, :]).sub(1.0, self.e3).view(-1, 207)
+/home/richie/MAML_HMR/src/SMPL.py:99: UserWarning: This overload of sub is deprecated:
+	sub(Number alpha, Tensor other)
+Consider using one of the following signatures instead:
+	sub(Tensor other, *, Number alpha) (Triggered internally at  ../torch/csrc/utils/python_arg_parser.cpp:1050.)
+  pose_feature = (Rs[:, 1:, :, :]).sub(1.0, self.e3).view(-1, 207)
