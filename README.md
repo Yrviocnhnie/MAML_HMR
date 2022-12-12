@@ -24,9 +24,8 @@ python Meta_trainer_1.py
 ```
 
 
-### Webcam Demo (thanks @JulesDoe!)
-1. Download pre-trained models like above.
-2. Run the demo
+### Demo
+Run the demo
 ```
 python demo.py
 python plot.py
